@@ -4,9 +4,9 @@ This is a basic CRUD App mini-project for me to learn on integrating the front-e
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
-## [JSON Server](https://www.npmjs.com/package/json-server)
+## JSON Server
 
-Install json-server with `npm i json-server`.
+Install [json-server](https://www.npmjs.com/package/json-server) with `npm i json-server`.
 
 Run `json-server --watch db.json`. It will watch `http://localhost:3000` by default.
 
