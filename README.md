@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Install json-server with `npm i json-server`.
 
-Run `json-server --watch db.json`. It will watch (http://localhost:3000) by default.
+Run `json-server --watch db.json`. It will watch `http://localhost:3000` by default.
 
 ## Development server
 
