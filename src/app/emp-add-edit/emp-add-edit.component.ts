@@ -13,11 +13,11 @@ export class EmpAddEditComponent implements OnInit {
   empForm: FormGroup;
 
   education: string[] = [
-    'Matric',
+    'SPM',
     'Diploma',
-    'Intermediate',
-    'Graduate',
-    'Post Graduate',
+    'Bachelor`s Degree',
+    'Master`s',
+    'PhD',
   ];
 
   constructor(
